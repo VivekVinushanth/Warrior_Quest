@@ -20,7 +20,7 @@ public class GameSimula {
 		System.out.println("|:::::::::::::::::::::::::|");
 		System.out.println("|:::::::::::::::::::::::::|");
 		System.out.println("|:::::::::::::::::::::::::|");
-		System.out.println("|:::::::::{treasure}::::::|");
+		System.out.println("|:::::::::{vivek}::::::|");
 		System.out.println("|:::::::::::::::::::::::::|");
 		System.out.println("|:::::::::::::::::::::::::|");
 		System.out.println("|:::::::::::::::::::::::::|");
